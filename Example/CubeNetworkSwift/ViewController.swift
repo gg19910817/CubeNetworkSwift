@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CFNetwork
 
 class ViewController: UIViewController {
 
