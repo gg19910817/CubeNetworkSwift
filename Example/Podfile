@@ -1,0 +1,12 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'CubeNetworkSwift_Example' do
+  pod 'CubeNetworkSwift', :path => '../'
+
+  target 'CubeNetworkSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

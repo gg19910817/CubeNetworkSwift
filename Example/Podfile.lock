@@ -1,0 +1,16 @@
+PODS:
+  - CubeNetworkSwift (0.1.0)
+
+DEPENDENCIES:
+  - CubeNetworkSwift (from `../`)
+
+EXTERNAL SOURCES:
+  CubeNetworkSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CubeNetworkSwift: ebef2d8a88664003bf4267fcac231ada3197efdd
+
+PODFILE CHECKSUM: ff1fe9939d0446474ba3f6806112b0daa568b166
+
+COCOAPODS: 1.9.1
